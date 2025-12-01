@@ -1,0 +1,8 @@
+  hardening-checklist.md
+   nginx-or-htaccess-rules/
+   wp-config-security-sample.php
+   recommended-plugins.md
+   cloudflare-rules.md
+   audit-report.md
+architecture-diagram.png
+README.md
